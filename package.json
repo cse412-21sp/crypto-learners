@@ -11,10 +11,14 @@
     "output": "docs"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.6.1",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
     "d3": "^6.6.2",
     "d3-scale-chromatic": "^2.0.0",
     "d3-selection": "^2.0.0",
     "d3-transition": "^2.0.0",
+    "framer-motion": "^4.1.16",
     "idyll": "^5.0.0",
     "idyll-d3-component": "^2.0.0",
     "idyll-vega-lite": "^2.1.0",
