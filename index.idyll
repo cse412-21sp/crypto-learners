@@ -1,15 +1,15 @@
-[meta title:"CSE412 Final Project" description:"The initial template for the CSE412 Final Projects (Spring 2021)" /]
+[meta title:"The Crypto-learners" description:"CSE412 Final Project (Spring 2021)" /]
 
 [Header
   fullWidth:true
-  title:"CSE412 Final Project Template"
-  subtitle:"Use this structure to get started, but make the narrative your own!"
-  author:"Jane Hoffswell"
+  title:"The Crypto-learners"
+  subtitle:"CSE412 Final Project (Spring 2021)"
+  author:"Jason Nguyen, Joohoon Cha, Yanni Zhou, Roger Tram"
   authorLink: "
   https://courses.cs.washington.edu/courses/cse412/21sp/index.html"
-  date:"Apr 6, 2021"
-  background:"#33333f"
-  color:"#ffffff"
+  date:"May 16, 2021"
+  background:"#FCF6F5"
+  color:"#2BAE66"
    /]
 
 The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. For this project, you will select a topic of interest and author a narrative article and accompanying visualizations to educate and inform a general audience. Think of your project as contributing to our own class newspaper or scientific magazine. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages. You will leverage the template and style provided here. 

@@ -1,16 +1,15 @@
-# CSE412 Final Project Template (Idyll)
+# Crypto Learners: CSE412 Final Project
 
 ## Team Members
 
-Place your team member names here.
-
-### Contribution Statements
-
-Add individual contribution statements here.
+- Jason Nguyen
+- Joohoon Cha
+- Yanni Zhou
+- Roger Tram
 
 ## Project Proposal Abstract
 
-This is the space for you to add a description for your project.
+Our goal is to bring _awareness to cryptocurrency developments and trends_ as we feel that the average person knows very little about how cryptocurrency even works, we sure don't. Currently, trying to find information on cryptocurrency can be as daunting as understanding the stock market, so we aim to present the developments of cryptocurrency using clearer and more digestible visualizations that can convey the same information to the general public.
 
 ## Getting Started
 
