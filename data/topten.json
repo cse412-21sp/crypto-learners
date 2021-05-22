@@ -1,0 +1,90 @@
+[{
+   "#": 1,
+   "Name": "Bitcoin",
+   "Market Cap": "60,219,183,594",
+   "Price": "3,631.72",
+   "Circulating Supply": "16,581,450 BTC",
+   "Volume (24h)": "1,226,800,000",
+   "% Change (24h)": "-0.84"
+ },
+ {
+   "#": 2,
+   "Name": "Ethereum",
+   "Market Cap": "25,061,275,598",
+   "Price": "264.44",
+   "Circulating Supply": "94,772,198 ETH",
+   "Volume (24h)": "462,576,000",
+   "% Change (24h)": "1.32"
+ },
+ {
+   "#": 3,
+   "Name": "Bitcoin Cash",
+   "Market Cap": "6,815,417,939",
+   "Price": "410.47",
+   "Circulating Supply": "16,603,775 BCH",
+   "Volume (24h)": "260,857,000",
+   "% Change (24h)": "-3.22"
+ },
+ {
+   "#": 4,
+   "Name": "Ripple",
+   "Market Cap": "6,646,329,833",
+   "Price": "0.17",
+   "Circulating Supply": "38,343,841,883 XRP *",
+   "Volume (24h)": "41,945,000",
+   "% Change (24h)": "-0.42"
+ },
+ {
+   "#": 5,
+   "Name": "Dash",
+   "Market Cap": "2,607,960,913",
+   "Price": "344.36",
+   "Circulating Supply": "7,573,378 DASH",
+   "Volume (24h)": "97,142,300",
+   "% Change (24h)": "3.62"
+ },
+ {
+   "#": 6,
+   "Name": "Litecoin",
+   "Market Cap": "2,562,271,606",
+   "Price": "48.30",
+   "Circulating Supply": "53,051,957 LTC",
+   "Volume (24h)": "212,827,000",
+   "% Change (24h)": "2.74"
+ },
+ {
+   "#": 7,
+   "Name": "NEM",
+   "Market Cap": "1,880,775,000",
+   "Price": "0.21",
+   "Circulating Supply": "8,999,999,999 XEM *",
+   "Volume (24h)": "2,941,490",
+   "% Change (24h)": "-1.53"
+ },
+ {
+   "#": 8,
+   "Name": "IOTA",
+   "Market Cap": "1,400,024,388",
+   "Price": "0.50",
+   "Circulating Supply": "2,779,530,283 MIOTA *",
+   "Volume (24h)": "9,257,370",
+   "% Change (24h)": "1.35"
+ },
+ {
+   "#": 9,
+   "Name": "Monero",
+   "Market Cap": "1,318,572,158",
+   "Price": "87.29",
+   "Circulating Supply": "15,104,906 XMR",
+   "Volume (24h)": "28,416,400",
+   "% Change (24h)": "0.51"
+ },
+ {
+   "#": 10,
+   "Name": "Ethereum Classic",
+   "Market Cap": "980,752,344",
+   "Price": "10.24",
+   "Circulating Supply": "95,768,179 ETC",
+   "Volume (24h)": "33,193,100",
+   "% Change (24h)": "-0.23"
+ }]

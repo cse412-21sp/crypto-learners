@@ -1,0 +1,902 @@
+[
+ {
+   "#": 1,
+   "Name": "Bitcoin",
+   "Market Cap": "60,219,183,594",
+   "Price": "3,631.72",
+   "Circulating Supply": "16,581,450 BTC",
+   "Volume (24h)": "1,226,800,000",
+   "Change (24h)": "-0.84"
+ },
+ {
+   "#": 2,
+   "Name": "Ethereum",
+   "Market Cap": "25,061,275,598",
+   "Price": "264.44",
+   "Circulating Supply": "94,772,198 ETH",
+   "Volume (24h)": "462,576,000",
+   "Change (24h)": "1.32"
+ },
+ {
+   "#": 3,
+   "Name": "Bitcoin Cash",
+   "Market Cap": "6,815,417,939",
+   "Price": "410.47",
+   "Circulating Supply": "16,603,775 BCH",
+   "Volume (24h)": "260,857,000",
+   "Change (24h)": "-3.22"
+ },
+ {
+   "#": 4,
+   "Name": "Ripple",
+   "Market Cap": "6,646,329,833",
+   "Price": "0.17",
+   "Circulating Supply": "38,343,841,883 XRP *",
+   "Volume (24h)": "41,945,000",
+   "Change (24h)": "-0.42"
+ },
+ {
+   "#": 5,
+   "Name": "Dash",
+   "Market Cap": "2,607,960,913",
+   "Price": "344.36",
+   "Circulating Supply": "7,573,378 DASH",
+   "Volume (24h)": "97,142,300",
+   "Change (24h)": "3.62"
+ },
+ {
+   "#": 6,
+   "Name": "Litecoin",
+   "Market Cap": "2,562,271,606",
+   "Price": "48.30",
+   "Circulating Supply": "53,051,957 LTC",
+   "Volume (24h)": "212,827,000",
+   "Change (24h)": "2.74"
+ },
+ {
+   "#": 7,
+   "Name": "NEM",
+   "Market Cap": "1,880,775,000",
+   "Price": "0.21",
+   "Circulating Supply": "8,999,999,999 XEM *",
+   "Volume (24h)": "2,941,490",
+   "Change (24h)": "-1.53"
+ },
+ {
+   "#": 8,
+   "Name": "IOTA",
+   "Market Cap": "1,400,024,388",
+   "Price": "0.50",
+   "Circulating Supply": "2,779,530,283 MIOTA *",
+   "Volume (24h)": "9,257,370",
+   "Change (24h)": "1.35"
+ },
+ {
+   "#": 9,
+   "Name": "Monero",
+   "Market Cap": "1,318,572,158",
+   "Price": "87.29",
+   "Circulating Supply": "15,104,906 XMR",
+   "Volume (24h)": "28,416,400",
+   "Change (24h)": "0.51"
+ },
+ {
+   "#": 10,
+   "Name": "Ethereum Classic",
+   "Market Cap": "980,752,344",
+   "Price": "10.24",
+   "Circulating Supply": "95,768,179 ETC",
+   "Volume (24h)": "33,193,100",
+   "Change (24h)": "-0.23"
+ },
+ {
+   "#": 11,
+   "Name": "NEO",
+   "Market Cap": "953,330,000",
+   "Price": "19.07",
+   "Circulating Supply": "50,000,000 NEO *",
+   "Volume (24h)": "22,268,200",
+   "Change (24h)": "10.14"
+ },
+ {
+   "#": 12,
+   "Name": "BitConnect",
+   "Market Cap": "742,161,368",
+   "Price": "109.80",
+   "Circulating Supply": "6,759,457 BCC",
+   "Volume (24h)": "6,876,050",
+   "Change (24h)": "0.24"
+ },
+ {
+   "#": 13,
+   "Name": "Lisk",
+   "Market Cap": "660,697,505",
+   "Price": "5.87",
+   "Circulating Supply": "112,588,315 LSK *",
+   "Volume (24h)": "11,626,600",
+   "Change (24h)": "8.26"
+ },
+ {
+   "#": 14,
+   "Name": "Zcash",
+   "Market Cap": "449,832,166",
+   "Price": "200.73",
+   "Circulating Supply": "2,240,981 ZEC",
+   "Volume (24h)": "42,222,900",
+   "Change (24h)": "12.84"
+ },
+ {
+   "#": 15,
+   "Name": "Stratis",
+   "Market Cap": "389,138,472",
+   "Price": "3.95",
+   "Circulating Supply": "98,553,494 STRAT *",
+   "Volume (24h)": "4,242,060",
+   "Change (24h)": "-2.74"
+ },
+ {
+   "#": 16,
+   "Name": "Waves",
+   "Market Cap": "377,436,000",
+   "Price": "3.77",
+   "Circulating Supply": "100,000,000 WAVES *",
+   "Volume (24h)": "2,874,770",
+   "Change (24h)": "2.65"
+ },
+ {
+   "#": 17,
+   "Name": "Ark",
+   "Market Cap": "273,223,160",
+   "Price": "2.80",
+   "Circulating Supply": "97,727,338 ARK *",
+   "Volume (24h)": "3,300,420",
+   "Change (24h)": "-0.87"
+ },
+ {
+   "#": 18,
+   "Name": "Steem",
+   "Market Cap": "244,833,707",
+   "Price": "1.01",
+   "Circulating Supply": "242,251,308 STEEM",
+   "Volume (24h)": "585,571",
+   "Change (24h)": "1.43"
+ },
+ {
+   "#": 19,
+   "Name": "Bytecoin",
+   "Market Cap": "206,169,389",
+   "Price": "0.00",
+   "Circulating Supply": "183,253,534,612 BCN",
+   "Volume (24h)": "990,913",
+   "Change (24h)": "-1.21"
+ },
+ {
+   "#": 20,
+   "Name": "Decred",
+   "Market Cap": "187,452,105",
+   "Price": "32.28",
+   "Circulating Supply": "5,806,815 DCR",
+   "Volume (24h)": "1,564,150",
+   "Change (24h)": "-0.86"
+ },
+ {
+   "#": 21,
+   "Name": "BitShares",
+   "Market Cap": "181,015,326",
+   "Price": "0.07",
+   "Circulating Supply": "2,599,260,000 BTS *",
+   "Volume (24h)": "13,569,800",
+   "Change (24h)": "-2.50"
+ },
+ {
+   "#": 22,
+   "Name": "Stellar Lumens",
+   "Market Cap": "178,986,094",
+   "Price": "0.01",
+   "Circulating Supply": "16,587,223,471 XLM *",
+   "Volume (24h)": "1,879,370",
+   "Change (24h)": "-0.69"
+ },
+ {
+   "#": 23,
+   "Name": "Hshare",
+   "Market Cap": "166,544,448",
+   "Price": "4.96",
+   "Circulating Supply": "33,600,000 HSR *",
+   "Volume (24h)": "6,192,230",
+   "Change (24h)": "-2.61"
+ },
+ {
+   "#": 24,
+   "Name": "Komodo",
+   "Market Cap": "164,652,221",
+   "Price": "1.63",
+   "Circulating Supply": "100,945,510 KMD",
+   "Volume (24h)": "721,260",
+   "Change (24h)": "0.99"
+ },
+ {
+   "#": 25,
+   "Name": "PIVX",
+   "Market Cap": "155,221,542",
+   "Price": "2.86",
+   "Circulating Supply": "54,342,049 PIVX *",
+   "Volume (24h)": "486,072",
+   "Change (24h)": "1.46"
+ },
+ {
+   "#": 26,
+   "Name": "Factom",
+   "Market Cap": "137,200,156",
+   "Price": "15.69",
+   "Circulating Supply": "8,745,102 FCT *",
+   "Volume (24h)": "1,497,780",
+   "Change (24h)": "3.69"
+ },
+ {
+   "#": 27,
+   "Name": "Byteball Bytes",
+   "Market Cap": "123,838,607",
+   "Price": "212.09",
+   "Circulating Supply": "583,896 GBYTE *",
+   "Volume (24h)": "148,709",
+   "Change (24h)": "-1.15"
+ },
+ {
+   "#": 28,
+   "Name": "Nexus",
+   "Market Cap": "114,368,857",
+   "Price": "2.17",
+   "Circulating Supply": "52,592,813 NXS",
+   "Volume (24h)": "1,602,630",
+   "Change (24h)": "-18.95"
+ },
+ {
+   "#": 29,
+   "Name": "Siacoin",
+   "Market Cap": "114,053,002",
+   "Price": "0.00",
+   "Circulating Supply": "29,555,679,372 SC",
+   "Volume (24h)": "2,142,570",
+   "Change (24h)": "-2.91"
+ },
+ {
+   "#": 30,
+   "Name": "DigiByte",
+   "Market Cap": "109,587,646",
+   "Price": "0.01",
+   "Circulating Supply": "8,742,253,657 DGB",
+   "Volume (24h)": "1,957,170",
+   "Change (24h)": "-1.15"
+ },
+ {
+   "#": 31,
+   "Name": "BitcoinDark",
+   "Market Cap": "105,257,379",
+   "Price": "81.67",
+   "Circulating Supply": "1,288,862 BTCD",
+   "Volume (24h)": "254,990",
+   "Change (24h)": "3.29"
+ },
+ {
+   "#": 32,
+   "Name": "GameCredits",
+   "Market Cap": "95,689,716",
+   "Price": "1.49",
+   "Circulating Supply": "64,254,060 GAME",
+   "Volume (24h)": "624,470",
+   "Change (24h)": "-4.27"
+ },
+ {
+   "#": 33,
+   "Name": "GXShares",
+   "Market Cap": "88,573,495",
+   "Price": "2.19",
+   "Circulating Supply": "40,510,000 GXS *",
+   "Volume (24h)": "9,092",
+   "Change (24h)": "10.78"
+ },
+ {
+   "#": 34,
+   "Name": "Lykke",
+   "Market Cap": "86,893,637",
+   "Price": "0.32",
+   "Circulating Supply": "268,135,619 LKK *",
+   "Volume (24h)": "93,098",
+   "Change (24h)": "1.71"
+ },
+ {
+   "#": 35,
+   "Name": "Dogecoin",
+   "Market Cap": "84,305,613",
+   "Price": "0.00",
+   "Circulating Supply": "111,186,214,624 DOGE",
+   "Volume (24h)": "3,480,610",
+   "Change (24h)": "-0.29"
+ },
+ {
+   "#": 36,
+   "Name": "Blocknet",
+   "Market Cap": "83,012,539",
+   "Price": "19.65",
+   "Circulating Supply": "4,224,449 BLOCK *",
+   "Volume (24h)": "185,903",
+   "Change (24h)": "-3.71"
+ },
+ {
+   "#": 37,
+   "Name": "Syscoin",
+   "Market Cap": "75,311,596",
+   "Price": "0.14",
+   "Circulating Supply": "527,680,360 SYS",
+   "Volume (24h)": "1,073,870",
+   "Change (24h)": "-1.30"
+ },
+ {
+   "#": 38,
+   "Name": "Verge",
+   "Market Cap": "71,456,664",
+   "Price": "0.01",
+   "Circulating Supply": "13,409,472,280 XVG",
+   "Volume (24h)": "1,688,240",
+   "Change (24h)": "-3.09"
+ },
+ {
+   "#": 39,
+   "Name": "FirstCoin",
+   "Market Cap": "62,294,317",
+   "Price": "7.17",
+   "Circulating Supply": "8,682,958 FRST",
+   "Volume (24h)": "955,802",
+   "Change (24h)": "3.14"
+ },
+ {
+   "#": 40,
+   "Name": "Nxt",
+   "Market Cap": "58,863,274",
+   "Price": "0.06",
+   "Circulating Supply": "998,999,942 NXT *",
+   "Volume (24h)": "2,557,440",
+   "Change (24h)": "-0.72"
+ },
+ {
+   "#": 41,
+   "Name": "I-O Coin",
+   "Market Cap": "55,776,049",
+   "Price": "3.41",
+   "Circulating Supply": "16,367,556 IOC *",
+   "Volume (24h)": "479,574",
+   "Change (24h)": "-6.04"
+ },
+ {
+   "#": 42,
+   "Name": "Ubiq",
+   "Market Cap": "53,128,777",
+   "Price": "1.40",
+   "Circulating Supply": "38,006,679 UBQ",
+   "Volume (24h)": "603,228",
+   "Change (24h)": "-2.92"
+ },
+ {
+   "#": 43,
+   "Name": "Particl",
+   "Market Cap": "53,125,035",
+   "Price": "6.89",
+   "Circulating Supply": "7,712,615 PART *",
+   "Volume (24h)": "166,934",
+   "Change (24h)": "-0.44"
+ },
+ {
+   "#": 44,
+   "Name": "NAV Coin",
+   "Market Cap": "50,847,062",
+   "Price": "0.82",
+   "Circulating Supply": "61,803,005 NAV *",
+   "Volume (24h)": "707,893",
+   "Change (24h)": "6.72"
+ },
+ {
+   "#": 45,
+   "Name": "Rise",
+   "Market Cap": "49,052,971",
+   "Price": "0.43",
+   "Circulating Supply": "113,139,200 RISE *",
+   "Volume (24h)": "1,312,090",
+   "Change (24h)": "0.81"
+ },
+ {
+   "#": 46,
+   "Name": "Vertcoin",
+   "Market Cap": "42,079,535",
+   "Price": "1.06",
+   "Circulating Supply": "39,682,700 VTC",
+   "Volume (24h)": "6,746,940",
+   "Change (24h)": "-12.13"
+ },
+ {
+   "#": 47,
+   "Name": "Bitdeal",
+   "Market Cap": "38,448,620",
+   "Price": "0.32",
+   "Circulating Supply": "119,876,595 BDL",
+   "Volume (24h)": "311,092",
+   "Change (24h)": "-8.39"
+ },
+ {
+   "#": 48,
+   "Name": "FairCoin",
+   "Market Cap": "38,238,279",
+   "Price": "0.72",
+   "Circulating Supply": "53,193,831 FAIR *",
+   "Volume (24h)": "69,622",
+   "Change (24h)": "3.60"
+ },
+ {
+   "#": 49,
+   "Name": "Metaverse ETP",
+   "Market Cap": "38,149,930",
+   "Price": "1.69",
+   "Circulating Supply": "22,600,000 ETP",
+   "Volume (24h)": "2,638,610",
+   "Change (24h)": "13.97"
+ },
+ {
+   "#": 50,
+   "Name": "Gulden",
+   "Market Cap": "38,129,124",
+   "Price": "0.11",
+   "Circulating Supply": "353,145,545 NLG",
+   "Volume (24h)": "104,792",
+   "Change (24h)": "-0.58"
+ },
+ {
+   "#": 51,
+   "Name": "ZCoin",
+   "Market Cap": "36,413,644",
+   "Price": "11.94",
+   "Circulating Supply": "3,050,102 XZC",
+   "Volume (24h)": "7,212,140",
+   "Change (24h)": "12.27"
+ },
+ {
+   "#": 52,
+   "Name": "CloakCoin",
+   "Market Cap": "33,893,251",
+   "Price": "6.64",
+   "Circulating Supply": "5,100,672 CLOAK *",
+   "Volume (24h)": "478,291",
+   "Change (24h)": "7.14"
+ },
+ {
+   "#": 53,
+   "Name": "NoLimitCoin",
+   "Market Cap": "33,711,614",
+   "Price": "0.17",
+   "Circulating Supply": "203,672,173 NLC2 *",
+   "Volume (24h)": "50,887",
+   "Change (24h)": "-1.47"
+ },
+ {
+   "#": 54,
+   "Name": "Elastic",
+   "Market Cap": "33,182,138",
+   "Price": "0.38",
+   "Circulating Supply": "86,652,367 XEL *",
+   "Volume (24h)": "535,066",
+   "Change (24h)": "-0.73"
+ },
+ {
+   "#": 55,
+   "Name": "Peercoin",
+   "Market Cap": "31,185,065",
+   "Price": "1.28",
+   "Circulating Supply": "24,349,826 PPC",
+   "Volume (24h)": "239,680",
+   "Change (24h)": "4.06"
+ },
+ {
+   "#": 56,
+   "Name": "Aidos Kuneen",
+   "Market Cap": "29,522,780",
+   "Price": "3.32",
+   "Circulating Supply": "8,900,500 ADK *",
+   "Volume (24h)": "19,187",
+   "Change (24h)": "-0.74"
+ },
+ {
+   "#": 57,
+   "Name": "ReddCoin",
+   "Market Cap": "26,976,964",
+   "Price": "0.00",
+   "Circulating Supply": "28,621,316,118 RDD *",
+   "Volume (24h)": "2,616,170",
+   "Change (24h)": "3.34"
+ },
+ {
+   "#": 58,
+   "Name": "LEOcoin",
+   "Market Cap": "26,585,531",
+   "Price": "0.29",
+   "Circulating Supply": "90,555,726 LEO *",
+   "Volume (24h)": "207,026",
+   "Change (24h)": "-7.47"
+ },
+ {
+   "#": 59,
+   "Name": "Counterparty",
+   "Market Cap": "25,010,000",
+   "Price": "9.55",
+   "Circulating Supply": "2,617,796 XCP *",
+   "Volume (24h)": "118,666",
+   "Change (24h)": "1.52"
+ },
+ {
+   "#": 60,
+   "Name": "MonaCoin",
+   "Market Cap": "24,507,300",
+   "Price": "0.45",
+   "Circulating Supply": "54,118,875 MONA",
+   "Volume (24h)": "52,056",
+   "Change (24h)": "-0.83"
+ },
+ {
+   "#": 61,
+   "Name": "DECENT",
+   "Market Cap": "24,255,415",
+   "Price": "0.47",
+   "Circulating Supply": "51,306,089 DCT *",
+   "Volume (24h)": "220,511",
+   "Change (24h)": "-1.87"
+ },
+ {
+   "#": 62,
+   "Name": "The ChampCoin",
+   "Market Cap": "23,288,007",
+   "Price": "0.14",
+   "Circulating Supply": "164,925,727 TCC",
+   "Volume (24h)": "128,438",
+   "Change (24h)": "-1.04"
+ },
+ {
+   "#": 63,
+   "Name": "Viacoin",
+   "Market Cap": "23,186,663",
+   "Price": "1.02",
+   "Circulating Supply": "22,832,080 VIA",
+   "Volume (24h)": "856,231",
+   "Change (24h)": "-11.61"
+ },
+ {
+   "#": 64,
+   "Name": "Emercoin",
+   "Market Cap": "22,686,762",
+   "Price": "0.56",
+   "Circulating Supply": "40,779,545 EMC",
+   "Volume (24h)": "134,722",
+   "Change (24h)": "-2.16"
+ },
+ {
+   "#": 65,
+   "Name": "Crown",
+   "Market Cap": "21,689,002",
+   "Price": "1.41",
+   "Circulating Supply": "15,337,130 CRW",
+   "Volume (24h)": "123,920",
+   "Change (24h)": "-12.31"
+ },
+ {
+   "#": 66,
+   "Name": "Sprouts",
+   "Market Cap": "20,620,960",
+   "Price": "0.00",
+   "Circulating Supply": "584,582,141,215 SPRTS *",
+   "Volume (24h)": "9,854",
+   "Change (24h)": "77.52"
+ },
+ {
+   "#": 67,
+   "Name": "ION",
+   "Market Cap": "20,409,426",
+   "Price": "1.24",
+   "Circulating Supply": "16,400,095 ION *",
+   "Volume (24h)": "33,412",
+   "Change (24h)": "1.00"
+ },
+ {
+   "#": 68,
+   "Name": "Namecoin",
+   "Market Cap": "20,299,538",
+   "Price": "1.38",
+   "Circulating Supply": "14,736,400 NMC",
+   "Volume (24h)": "137,457",
+   "Change (24h)": "10.74"
+ },
+ {
+   "#": 69,
+   "Name": "Clams",
+   "Market Cap": "19,830,748",
+   "Price": "7.54",
+   "Circulating Supply": "2,628,337 CLAM *",
+   "Volume (24h)": "851,718",
+   "Change (24h)": "8.26"
+ },
+ {
+   "#": 70,
+   "Name": "BitBay",
+   "Market Cap": "19,727,228",
+   "Price": "0.02",
+   "Circulating Supply": "1,007,740,618 BAY *",
+   "Volume (24h)": "85,094",
+   "Change (24h)": "-0.69"
+ },
+ {
+   "#": 71,
+   "Name": "OKCash",
+   "Market Cap": "18,962,711",
+   "Price": "0.26",
+   "Circulating Supply": "72,634,863 OK *",
+   "Volume (24h)": "2,215,460",
+   "Change (24h)": "-14.11"
+ },
+ {
+   "#": 72,
+   "Name": "Unobtanium",
+   "Market Cap": "18,496,843",
+   "Price": "93.50",
+   "Circulating Supply": "197,817 UNO",
+   "Volume (24h)": "29,635",
+   "Change (24h)": "-1.27"
+ },
+ {
+   "#": 73,
+   "Name": "Diamond",
+   "Market Cap": "17,492,702",
+   "Price": "7.18",
+   "Circulating Supply": "2,434,895 DMD",
+   "Volume (24h)": "57,368",
+   "Change (24h)": "1.60"
+ },
+ {
+   "#": 74,
+   "Name": "Skycoin",
+   "Market Cap": "17,427,322",
+   "Price": "2.97",
+   "Circulating Supply": "5,874,530 SKY *",
+   "Volume (24h)": "7,940",
+   "Change (24h)": "-2.60"
+ },
+ {
+   "#": 75,
+   "Name": "MonetaryUnit",
+   "Market Cap": "17,369,018",
+   "Price": "0.13",
+   "Circulating Supply": "129,486,188 MUE",
+   "Volume (24h)": "161,942",
+   "Change (24h)": "2.48"
+ },
+ {
+   "#": 76,
+   "Name": "SpreadCoin",
+   "Market Cap": "17,360,473",
+   "Price": "1.97",
+   "Circulating Supply": "8,795,591 SPR",
+   "Volume (24h)": "197,955",
+   "Change (24h)": "-3.52"
+ },
+ {
+   "#": 77,
+   "Name": "Mooncoin",
+   "Market Cap": "17,069,057",
+   "Price": "0.00",
+   "Circulating Supply": "222,291,552,483 MOON",
+   "Volume (24h)": "4,460",
+   "Change (24h)": "64.74"
+ },
+ {
+   "#": 78,
+   "Name": "Expanse",
+   "Market Cap": "16,496,380",
+   "Price": "2.09",
+   "Circulating Supply": "7,906,397 EXP",
+   "Volume (24h)": "243,444",
+   "Change (24h)": "-4.65"
+ },
+ {
+   "#": 79,
+   "Name": "SIBCoin",
+   "Market Cap": "15,517,334",
+   "Price": "1.00",
+   "Circulating Supply": "15,484,198 SIB",
+   "Volume (24h)": "156,351",
+   "Change (24h)": "2.23"
+ },
+ {
+   "#": 80,
+   "Name": "ZenCash",
+   "Market Cap": "15,231,092",
+   "Price": "6.96",
+   "Circulating Supply": "2,188,325 ZEN",
+   "Volume (24h)": "577,949",
+   "Change (24h)": "4.37"
+ },
+ {
+   "#": 81,
+   "Name": "PotCoin",
+   "Market Cap": "14,722,522",
+   "Price": "0.07",
+   "Circulating Supply": "218,038,116 POT",
+   "Volume (24h)": "158,127",
+   "Change (24h)": "-6.17"
+ },
+ {
+   "#": 82,
+   "Name": "Radium",
+   "Market Cap": "14,261,301",
+   "Price": "4.26",
+   "Circulating Supply": "3,351,177 RADS *",
+   "Volume (24h)": "139,192",
+   "Change (24h)": "-2.78"
+ },
+ {
+   "#": 83,
+   "Name": "Burst",
+   "Market Cap": "14,199,244",
+   "Price": "0.01",
+   "Circulating Supply": "1,800,339,818 BURST",
+   "Volume (24h)": "335,516",
+   "Change (24h)": "0.39"
+ },
+ {
+   "#": 84,
+   "Name": "LBRY Credits",
+   "Market Cap": "14,115,161",
+   "Price": "0.21",
+   "Circulating Supply": "68,524,524 LBC",
+   "Volume (24h)": "756,065",
+   "Change (24h)": "-7.42"
+ },
+ {
+   "#": 85,
+   "Name": "Shift",
+   "Market Cap": "13,822,484",
+   "Price": "1.23",
+   "Circulating Supply": "11,214,997 SHIFT *",
+   "Volume (24h)": "97,938",
+   "Change (24h)": "-1.05"
+ },
+ {
+   "#": 86,
+   "Name": "DigitalNote",
+   "Market Cap": "13,657,846",
+   "Price": "0.00",
+   "Circulating Supply": "6,885,695,758 XDN",
+   "Volume (24h)": "2,157,890",
+   "Change (24h)": "-4.97"
+ },
+ {
+   "#": 87,
+   "Name": "Neblio",
+   "Market Cap": "13,553,362",
+   "Price": "1.09",
+   "Circulating Supply": "12,399,127 NEBL *",
+   "Volume (24h)": "99,456",
+   "Change (24h)": "13.41"
+ },
+ {
+   "#": 88,
+   "Name": "Einsteinium",
+   "Market Cap": "13,232,583",
+   "Price": "0.06",
+   "Circulating Supply": "214,096,252 EMC2",
+   "Volume (24h)": "2,892,490",
+   "Change (24h)": "6.89"
+ },
+ {
+   "#": 89,
+   "Name": "Compcoin",
+   "Market Cap": "12,984,520",
+   "Price": "3.05",
+   "Circulating Supply": "4,264,028 CMP",
+   "Volume (24h)": "219,424",
+   "Change (24h)": "23.86"
+ },
+ {
+   "#": 90,
+   "Name": "Omni",
+   "Market Cap": "12,799,006",
+   "Price": "22.86",
+   "Circulating Supply": "559,786 OMNI *",
+   "Volume (24h)": "41,528",
+   "Change (24h)": "-0.84"
+ },
+ {
+   "#": 91,
+   "Name": "ATC Coin",
+   "Market Cap": "12,751,674",
+   "Price": "1.21",
+   "Circulating Supply": "10,525,960 ATCC *",
+   "Volume (24h)": "498,063",
+   "Change (24h)": "-0.70"
+ },
+ {
+   "#": 92,
+   "Name": "Energycoin",
+   "Market Cap": "12,526,103",
+   "Price": "0.10",
+   "Circulating Supply": "121,243,039 ENRG",
+   "Volume (24h)": "20,940",
+   "Change (24h)": "0.11"
+ },
+ {
+   "#": 93,
+   "Name": "Rubycoin",
+   "Market Cap": "12,519,449",
+   "Price": "0.50",
+   "Circulating Supply": "24,792,314 RBY *",
+   "Volume (24h)": "45,798",
+   "Change (24h)": "-7.88"
+ },
+ {
+   "#": 94,
+   "Name": "Gambit",
+   "Market Cap": "12,437,419",
+   "Price": "10.42",
+   "Circulating Supply": "1,193,530 GAM *",
+   "Volume (24h)": "114,899",
+   "Change (24h)": "0.29"
+ },
+ {
+   "#": 95,
+   "Name": "E-coin",
+   "Market Cap": "12,348,031",
+   "Price": "3.08",
+   "Circulating Supply": "4,008,919 ECN",
+   "Volume (24h)": "69,387",
+   "Change (24h)": "-1.89"
+ },
+ {
+   "#": 96,
+   "Name": "SaluS",
+   "Market Cap": "12,276,886",
+   "Price": "12.23",
+   "Circulating Supply": "1,004,195 SLS *",
+   "Volume (24h)": "51,408",
+   "Change (24h)": "-4.08"
+ },
+ {
+   "#": 97,
+   "Name": "Groestlcoin",
+   "Market Cap": "12,211,006",
+   "Price": "0.18",
+   "Circulating Supply": "68,438,903 GRS",
+   "Volume (24h)": "1,205,620",
+   "Change (24h)": "-4.53"
+ },
+ {
+   "#": 98,
+   "Name": "BlackCoin",
+   "Market Cap": "12,208,321",
+   "Price": "0.16",
+   "Circulating Supply": "76,386,509 BLK *",
+   "Volume (24h)": "324,479",
+   "Change (24h)": "-1.81"
+ },
+ {
+   "#": 99,
+   "Name": "Golos",
+   "Market Cap": "11,820,678",
+   "Price": "0.09",
+   "Circulating Supply": "124,518,891 GOLOS",
+   "Volume (24h)": "12,482",
+   "Change (24h)": "-5.69"
+ },
+ {
+   "#": 100,
+   "Name": "GridCoin",
+   "Market Cap": "11,816,250",
+   "Price": "0.03",
+   "Circulating Supply": "390,312,753 GRC",
+   "Volume (24h)": "276,327",
+   "Change (24h)": "-5.20"
+ }
+]
