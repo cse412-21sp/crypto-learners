@@ -5,10 +5,11 @@
   "idyll": {
     "context": "./context.js",
     "theme": "default",
-    "layout": "centered",
+    "layout": "./static/layout.css",
     "css": "styles.css",
     "authorView": false,
-    "output": "docs"
+    "output": "docs",
+    "components": ["./components/section", "./components/layout", "./components/visualization"]
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.1",

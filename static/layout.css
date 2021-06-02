@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.idyll-text-container {
+  max-width: 72vw;
+  margin: 0 auto;
+}
+
+.idyll-text-container .vega-embed {
+  display: block;
+  max-width: 52vw;
+  margin-left: 4vw;
+}

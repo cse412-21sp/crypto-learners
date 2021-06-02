@@ -1,33 +1,43 @@
 [meta title:"The Crypto-learners" description:"CSE412 Final Project (Spring 2021)" /]
 
+[Nav fullWidth:true/]
+
 [Header
   fullWidth:true
   title:"The Crypto-learners"
-  subtitle:"CSE412 Final Project (Spring 2021)"
-  background:"#FCF6F5"
-  color:"#2BAE66"
+  subtitle:"A Helpful Guide to Everything You Need to Know About Cryptocurrency"
+  team:`[
+  {id: 1, name: "Jason Nguyen"}, 
+  {id: 2, name: "Joohoon Cha"}, 
+  {id: 3, name: "Roger Tram"},
+  {id: 4, name: "Yanni Zhou"}]`
    /]
+
+[Contents
+  fullWidth:true
+  chapters:`[
+  {id: 1, name: "Trends"}, 
+  {id: 2, name: "Property"}, 
+  {id: 3, name: "Fluctuation And Prediction"}, 
+  {id: 4, name: "Bitcoin"}]`
+  /]
 
 [data name:"bitcoin_volume" source:"bitcoin_volume.csv" /]
 [data name:"top" source:"top.json" /]
 [data name:"topten" source:"topten.json" /]
 [data name:"coin_Bitcoin" source:"coin_Bitcoin.json" /]
 [data name:"coin_Dogecoin" source:"coin_Dogecoin.json" /]
-[data name:"eth" source:"eth.csv" /]
-[data name:"xrp" source:"xrp.csv" /]
-[data name:"doge" source:"doge.csv" /]
-[data name:"etc" source:"etc.csv" /]
-[data name:"btc" source:"btc.csv" /]
-
-
+[data name:"nd" source:"nasdaq_norm.csv" /]
+[data name:"eth" source:"eth_norm.csv" /]
+[data name:"btc" source:"btc_norm.csv" /]
+[data name:"gold" source:"goldprice.csv" /]
+[data name:"bit" source:"bit_price.csv" /]
 
 # When and How Was The First Introduction To Crypto Currencies?
 
 Crypto currenccies were first introduced with the commonly known Bitcoin. It dates back to 2008 when Satoshi Nakamoto, a pseudonymous person, outlined the contents in a white paper, then releasing Bitcoin to the public in 2009. In the late 2010, other similar forms of cryptocurrencies such as Litecoin appeared as well. Alongside the appearance of other crypto currencies, some of the first exchanges using Bitcoin began.
 
-## 2012
-
-WordPress became the first major merchant to accept payment in Bitcoin. Popular cryptocurrency soon began to be accepted as a legitimate method of payment.
+In 2012 WordPress became the first major merchant to accept payment in Bitcoin. Popular cryptocurrency soon began to be accepted as a legitimate method of payment.
 
 [TopCoinJason actions:false data:top width:"container"/]
 [TopCoin2Jason actions:false data:top width:"container"/]
@@ -41,13 +51,10 @@ The primary different between cryptocurrency and stocks is that when you buy cry
 
 Both crypto and stocks can increase or decrease in value, so buying either one involves risk. The difference is that most cryptocurrencies are notorious for drastic changes in value, and sometimes it happens without any clear reason. By comparison stokcs are directly linked to companies that must publicly and regularly share how they’ve been doing and how they expect to do in the future.
 
-# Which currencies are more volatile and which ones are more stable?
-
+[NasdaqJoohoon actions:false data:nd width:"container"/]
 [EthJoohoon actions:false data:eth width:"container"/]
-[EtcJoohoon actions:false data:etc width:"container"/]
-[XrpJoohoon actions:false data:xrp width:"container"/]
 [BtcJoohoon actions:false data:btc width:"container"/]
-[DogeJoohoon actions:false data:doge width:"container"/]
+
 
 # Fluctuations and Predictions of Crypto-Currency Trends
 
@@ -56,9 +63,10 @@ From here, we have seen trends in crypto-currency already, now we need to ask qu
 [HighToLowRoger actions:false data:coin_Bitcoin width:"container"/]
 [HighToLowDogeRoger actions:false data:coin_Dogecoin width:"container"/]
 
-## Potential Causes of Crypto-Currency Trends
+# Potential Causes of Crypto-Currency Trends
 
 In order to fully understand the rises and drops in crypto-currencies, the charts and data can reveal the many events that occured that have caused these trends. For example, a trend these cryptocurrencies have is the major decline in January of 2018 which gives us a timeframe to research. Among other factors, the disclosure of the [2014 CoinCheck hack](https://money.cnn.com/2018/01/29/technology/coincheck-cryptocurrency-exchange-hack-japan/index.html) along with general mainstream distaste for crypto-currency at this time. Smaller trends that can be discovered from the the visualization of Bitcoin is that the start and end of each April from 2016 and on show positive trends consistently.
+
 
 Overall, the events that affect crypto-currencies are ongoing and very volatile, even as recent as May 8, 2021, [Elon Musk's appearance on Saturday Night Live](https://www.cnbc.com/2021/05/08/dogecoin-price-plummets-as-elon-musk-hosts-saturday-night-live-.html) caused a 30% drop in dogecoin due to the words he spoke on the crypto-currency.
 

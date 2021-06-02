@@ -38,3 +38,79 @@
     margin-left: 65vw;
   }
 }
+
+/* custom css overide */
+
+body {
+  font-family: 'Phantom Sans', sans-serif;
+}
+
+.idyll-text-container h1 {
+  font-family: 'Chromate', serif;
+  font-size: 2.5rem;
+  padding-bottom: 4vw;
+}
+
+.idyll-text-container p {
+  font-size: 1.5rem;
+  padding-bottom: 4vw;
+}
+
+.idyll-text-container .vega-embed {
+  padding-bottom: 4vw;
+}
+
+
+a:hover {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+  text-underline-offset: 0.1em;
+}
+
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url("./fonts/PhantomSans0.8-Bold.woff2") format('woff2'),
+       url("./fonts/PhantomSans0.8-Bold.woff") format('woff');
+  font-weight:  700;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url("./fonts/PhantomSans0.8-Semibold.woff2") format('woff2'),
+       url("./fonts/PhantomSans0.8-Semibold.woff") format('woff');
+  font-weight:  600;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url("./fonts/PhantomSans0.8-Medium.woff2") format('woff2'),
+       url("./fonts/PhantomSans0.8-Medium.woff") format('woff');
+  font-weight:  500;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url("./fonts/PhantomSans0.8-Regular.woff2") format('woff2'),
+       url("./fonts/PhantomSans0.8-Regular.woff") format('woff');
+  font-weight:  400;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url("./fonts/PhantomSans0.8-Light.woff2") format('woff2'),
+       url("./fonts/PhantomSans0.8-Light.woff") format('woff');
+  font-weight:  300;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Chromate';
+  src: url("./fonts/Chromate-Regular.otf") format('otf');
+  font-weight:  400;
+  font-style:   normal;
+}
