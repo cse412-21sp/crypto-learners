@@ -7,8 +7,8 @@
   title:"The Crypto-learners"
   subtitle:"A Helpful Guide to Everything You Need to Know About Cryptocurrency"
   team:`[
-  {id: 1, name: "Jason Nguyen"}, 
-  {id: 2, name: "Joohoon Cha"}, 
+  {id: 1, name: "Jason Nguyen"},
+  {id: 2, name: "Joohoon Cha"},
   {id: 3, name: "Roger Tram"},
   {id: 4, name: "Yanni Zhou"}]`
    /]
@@ -16,9 +16,9 @@
 [Contents
   fullWidth:true
   chapters:`[
-  {id: 1, name: "Trends"}, 
-  {id: 2, name: "Property"}, 
-  {id: 3, name: "Fluctuation And Prediction"}, 
+  {id: 1, name: "Trends"},
+  {id: 2, name: "Property"},
+  {id: 3, name: "Fluctuation And Prediction"},
   {id: 4, name: "Bitcoin"}]`
   /]
 
@@ -70,7 +70,37 @@ In order to fully understand the rises and drops in crypto-currencies, the chart
 
 Overall, the events that affect crypto-currencies are ongoing and very volatile, even as recent as May 8, 2021, [Elon Musk's appearance on Saturday Night Live](https://www.cnbc.com/2021/05/08/dogecoin-price-plummets-as-elon-musk-hosts-saturday-night-live-.html) caused a 30% drop in dogecoin due to the words he spoke on the crypto-currency.
 
+
+
 # Introduce one specific crypto-currency: Bitcoin
 
-[TimeToCountYanni actions:false data:bitcoin_volume width:"container"/]
-[PriceToVolumeYanni actions:false data:bitcoin_volume width:"container"/]
+In this section, we want to introduce one of the most famous cryto-currencies--Bitcoin.
+
+Bitcoin began to be used in 2009 and the price had increased sharply during the past decade.
+But it is also well-known that the value of this currency is extremely volatile.
+
+
+
+[ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/test?cells=graph" width:"600" height:"700"/]
+
+
+First of all, in order to get to know about Bitcoin, the trends of price is a very significant part to look at.
+we can tell from this visualization that the prices of Bitcoin increase over 1000 billion from 2017 to 2021 while it increased over 800 billion from 2020 to 2021.
+
+To see the volatility of Bitcoin, we compare it to SPDR Gold Shares since we know that although the price of gold can be volatile in the short term, it has always maintained its value over the long term.
+
+Also from this visualization, we can see that the prices of gold also increase a lot from 2017 to 2021 but it
+does not increase as sharply as Bitcoin does. Therefore, Bitcoin is much more volatile.
+
+[ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/test?cells=graph2%2Cgraph3" width:"550" height:"850"/]
+
+Then, we want to focus on the trade volume of Bitcoin, that is, how much Bitcoin that people trade everyday, and it can tell how people actually use Bitcoin as currency.
+
+From the visualization, as the increase of prices of Bitcoin, the trade volume increases as well. So, more people buy and sell Bitcoin while the price increasing.
+
+![example width:"100%"](./static/images/12.png)
+
+![example width:"100%"](./static/images/q3.png)
+
+
+It is also important to introduce the exchanges of Bitcoin.
