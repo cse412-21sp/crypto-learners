@@ -76,31 +76,32 @@ Overall, the events that affect crypto-currencies are ongoing and very volatile,
 
 In this section, we want to introduce one of the most famous cryto-currencies--Bitcoin.
 
-Bitcoin began to be used in 2009 and the price had increased sharply during the past decade.
-But it is also well-known that the value of this currency is extremely volatile.
+The description from Jake Frankenfield on Investopedia says that “Bitcoin is a type of cryptocurrency. There are no physical bitcoins, only balances kept on a public ledger that everyone has transparent access to. All bitcoin transactions are verified by a massive amount of computing power. Bitcoins are not issued or backed by any banks or governments, nor are individual bitcoins valuable as a commodity. Despite it not being legal tender, Bitcoin is very popular and has triggered the launch of hundreds of other cryptocurrencies, collectively referred to as altcoins.” (Jake Frankenfield, June 2021) Therefore, Bitcoin is a great choice for getting to know the secrets of crypto-currency as it is one of the most important origins of all other crypto-currencies.
 
+In 2021, Bitcoin entered into the views of more people due to the drastic increase in this year. More and more people dive into the investments of Bitcoin to look for more possibilities. So, to begin with the learning about Bitcoin, we will focus on the prices and volume of trades for Bitcoin in the past few years.
 
+[TableauEmbed link:"https://public.tableau.com/views/bitPrice/Sheet1?" width:"600" height:"600"/]
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/test?cells=graph" width:"600" height:"700"/]
 
+From the first visualization above, we can tell that the price of Bitcoin has increased over 900 thousands from 2016 to 2021. Especially in 2021, the price is even more than twice of it in 2018. Also, the scatter plot in the second visualization shows that as the price increases, the trade volumes of Bitcoin increase as well. That is to say, people tend to trade more while the price of Bitcoin gets higher. Then, if we slide the window of the bar chart in the second visualization to include years 2020 to 2022, the data points with high trade volumes and high prices are shown in the scatter plot. In contrast, more data points are concentrated in the range of price from 0 to 20000 USD with other years included. In summary, the prices and trade volumes of Bitcoin have kept increasing for several years with a rapid increase in recent years.
 
-First of all, in order to get to know about Bitcoin, the trends of price is a very significant part to look at.
-we can tell from this visualization that the prices of Bitcoin increase over 1000 billion from 2017 to 2021 while it increased over 800 billion from 2020 to 2021.
-
-To see the volatility of Bitcoin, we compare it to SPDR Gold Shares since we know that although the price of gold can be volatile in the short term, it has always maintained its value over the long term.
-
-Also from this visualization, we can see that the prices of gold also increase a lot from 2017 to 2021 but it
-does not increase as sharply as Bitcoin does. Therefore, Bitcoin is much more volatile.
+However, opportunities also come with challenges. It is well-known that the value of Bitcoin is extremely volatile, some people are able to get huge profits from the investments of Bitcoin while others fail to overcome the challenges. Thus, we will explore the volatility of Bitcoin by comparing it with SPDR Gold Shares to see the possible risks that may come with the benefits.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/test?cells=graph2%2Cgraph3" width:"550" height:"850"/]
 
-Then, we want to focus on the trade volume of Bitcoin, that is, how much Bitcoin that people trade everyday, and it can tell how people actually use Bitcoin as currency.
+The above visualizations show the market capitalization of Bitcoin from 2017 to 2021. We can tell from this visualization that the price of Bitcoin has increased over 1000 billion from 2017 to 2021 while it has increased over 800 billion from 2020 to 2021. So, the majority of market capitalization comes from the recent two years.
 
-From the visualization, as the increase of prices of Bitcoin, the trade volume increases as well. So, more people buy and sell Bitcoin while the price increasing.
+To see the volatility of Bitcoin, we compare it to the market capitalization of SPDR Gold Shares since we know that although the price of gold can be volatile in the short term, it has always maintained its value over the long term. From the second graph in this visualization, we can see that the price of gold also has increased from 30 billion to 80 billion between 2017 and 2021 but it does not increase as sharply as Bitcoin does. Therefore, Bitcoin is much more volatile compared to a stable currency.
 
-![example width:"100%"](./static/images/12.png)
+Lastly, we want to talk about the platforms for exchanges of Bitcoin. Also from the description of Jake Frankenfield, “A bitcoin exchange is a digital marketplace where traders can buy and sell bitcoins using different fiat currencies or altcoins. A bitcoin currency exchange is an online platform that acts as an intermediary between buyers and sellers of the cryptocurrency...Different exchanges have different payment methods that can be used for depositing funds including bank wires, direct bank transfers, credit or debit cards, bank drafts, money orders and even gift cards.” (Jake Frankenfield, July 2020)
 
-![example width:"100%"](./static/images/q3.png)
+![example width:"100%"](./static/images/pie.png)
 
+So, we will contrast the ranks of 10 distinct platforms for exchanges of Bitcoin calculating based on their volumes. From the pie chart, it is clear that the exchanges of Coinbase, Bitfinex, Bitstamp and Kraken take the majority of the ranks as they contribute 25.52%, 31.50%, 18.25% and 13.22% of the total ranks, which sum up to 88.49% of the total. Therefore, we can see that although there are many exchanges in the market, only a few of them are dominant platforms for trading Bitcoin.
 
-It is also important to introduce the exchanges of Bitcoin.
+[TableauEmbed link:"https://public.tableau.com/views/Book1_16227392621230/Sheet1?" width:"100%" height:"600"/]
+
+However, the above visualization shows that there is a decreasing trend for the ranks of all exchanges from 2019 to 2021 with a sudden increase in March to May of 2020. The decreasing trend could be caused by the appearance of more platforms of exchanges as the rapid increase in values of Bitcoin attracts more people and companies. For example, the top ranks of Bitcoin exchanges include Binance, Huobi Global and so on. Therefore, it is reasonable for the previous 10 exchanges to have a decrease in trade volumes. However, as we noticed, there was a boom that occurred in March 2020. The reason for this boom is that Bitcoin suffered one of the biggest weekly losses at that time, which led to the sudden increase of trade volumes since more people tend to sell their Bitcoin during that period of time.
+
+In conclusion, Bitcoin brings many possibilities for people to explore the area of crypto-currency while there could be incredible benefits from trading Bitcoin. However, high benefits always come with high risks like the stock market. Therefore, when people are learning and trading Bitcoin, they should always consider the possible losses and failures which will come with possible benefits.
