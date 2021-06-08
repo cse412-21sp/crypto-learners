@@ -34,17 +34,17 @@
 [data name:"gold" source:"goldprice.csv" /]
 [data name:"bit" source:"bit_price.csv" /]
 
-# When and How Was The First Introduction To Crypto Currencies?
+# When And How Was The First Introduction To Crypto Currencies?
 
-Crypto currenccies were first introduced with the commonly known Bitcoin. It dates back to 2008 when Satoshi Nakamoto, a pseudonymous person, outlined the contents in a white paper, then releasing Bitcoin to the public in 2009. In the late 2010, other similar forms of cryptocurrencies such as Litecoin appeared as well. Alongside the appearance of other crypto currencies, some of the first exchanges using Bitcoin began.
+Crypto currencies were first introduced with the commonly known Bitcoin. It dates back to 2008 when Satoshi Nakamoto, a pseudonymous person, outlined the contents in a white paper, then released Bitcoin to the public in 2009. In the late 2010, other similar forms of cryptocurrencies such as Litecoin appeared as well. Alongside the appearance of other crypto currencies, some of the first exchanges using Bitcoin began.
 
 In 2012 WordPress became the first major merchant to accept payment in Bitcoin. Popular cryptocurrency soon began to be accepted as a legitimate method of payment.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/untitled?cells=vis1" width:"900" height:"550"/]
 
-Looking at the first visualization, we can see a wide range of prices for some of the current active crypto currencies. We mentioned Bitcoin as the starting point for the digital currency. Due to it's success and nature, it is not displayed on the visualization as the price value that it has is set at $3, 631.72, which is roughly 8 or 9 times mores than Bitcoin Cash. For this reason, it is not included as it would skew the visualizations and make it difficult to see other data points.
+Looking at the first visualization, we can see a wide range of prices for some of the current active crypto currencies. We mentioned Bitcoin as the starting point for the digital currency. Due to its success and nature, it is not displayed on the visualization as the price value that it has is set at $3, 631.72, which is roughly 8 or 9 times more than Bitcoin Cash. For this reason, it is not included as it would skew the visualizations and make it difficult to see other data points.
 
-In recent times, crypto currencies have experiences changes to their values, some having more positive, drastic changes while others falling from the top of the ranking list.
+In recent times, crypto currencies have experienced changes to their values, some having more positive, drastic changes while others falling from the top of the ranking list.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/untitled?cells=vis2" width:"900" height:"500"/]
 
@@ -64,52 +64,52 @@ Some of the [first few cryptocurrencies](https://www.moneycrashers.com/cryptocur
 • Colnye
 [/div]
 
-Bitcoin was and still is the world's most widely used cryptocurrency. It has a programmed supply limit of 21 million Bitcoin, and is still increasing it's market cap and unit value as we speak.
+Bitcoin was and still is the world’s most widely used cryptocurrency. It has a programmed supply limit of 21 million Bitcoin, and is still increasing its market cap and unit value as we speak.
 
-Etherum, or ETH for short, launched in 2015 and became to be the second most popular cryptocurrency and the second most valuable one after Bitcoin. It utilizes "smart contracts" that enhances the performance of a transaction, compel parties not to renege on agreements, and contain methods for refunds if a party violates an agreement
+Etherum, or ETH for short, launched in 2015 and became the second most popular cryptocurrency and the second most valuable one after Bitcoin. It utilizes “smart contracts” that enhance the performance of a transaction, compel parties not to renege on agreements, and contain methods for refunds if a party violates an agreement.
 
 Litecoin was released in 2011 and had similar structures to Bitcoin. The only major difference was that the algorithm was slightly different. In regards to supplies and creation time, Litecoin had a higher programmed supply limit of 84 million units with a shorter blockchain creation time of 2.5 minutes.
 
-Ripple was released in 2012 and was known for being a "consensus ledger" system in which drastically speeds up transaction confirmation and blockchain creation times. It is more easily convertible than other cryptocurrencies, where one can convert Ripple units into U.S. dollars, yen, euros, and other common currencies. The downside of Ripple is that it's network and code are more susceptible to manipulation by hackers.
+Ripple was released in 2012 and was known for being a “consensus ledger” system which drastically speeds up transaction confirmation and blockchain creation times. It is more easily convertible than other cryptocurrencies, where one can convert Ripple units into U.S. dollars, yen, euros, and other common currencies. The downside of Ripple is that it’s network and code are more susceptible to manipulation by hackers.
 
 Dogecoin (DOGE) comes from the recognizable Shiba Inu mascot, and is a variation of Litecoin. It has a shorter blockchain creation time of one minute and a greater number of coins in circulation. It is notable as the "inflationary cryptocurrency", with experts observing it's progress to see it's long-term value trajectory and how it differs from others.
 
-Coinye was a semi-defunct cryptocurrency that developed under Coinye West in 2013 as a similarity to hip-hop superstar Kanye West. It is more of a humorous crytpocurrency that simply has no impact or value in the market.
+Coinye was a semi-defunct cryptocurrency that developed under Coinye West in 2013 as a similarity to hip-hop superstar Kanye West. It is more of a humorous cryptocurrency that simply has no impact or value in the market.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/untitled?cells=vis3" width:"900" height:"500"/]
 
-Due to the numerous number of crypto currencies, it's difficult to identify and compare one currency from another. Looking at the crypto currencies that are above $50 in price, we can easily see how this small batch compares against one another
+Due to the numerous crypto currencies, it’s difficult to identify and compare one currency from another. Looking at the crypto currencies that are above $50 in price, we can easily see how this small batch compares against one another.
 
-Since there are numerous crypto currencies that are being displayed, it can be difficult to read some of the data. The visualization below is a segmented portion of the intial visualization that looks are crypto currencies with price values greater than $90. As you can see, there are only 9 crypto currencies being displayed. From this specific visualization, we can see that Bitcoin Cash has the highest price value, aside from Bitcoin which can't be displayed, in comparison to the other currencies. Hovering over the bars, Bitcoin Cash also holds a larger market cap than others with a value of 6,815,417,939.
+Since there are numerous crypto currencies that are being displayed, it can be difficult to read some of the data. The visualization below is a segmented portion of the initial visualization that looks at crypto currencies with price values greater than $90. As you can see, there are only 9 crypto currencies being displayed. From this specific visualization, we can see that Bitcoin Cash has the highest price value, aside from Bitcoin which can’t be displayed, in comparison to the other currencies. Hovering over the bars, Bitcoin Cash also holds a larger market cap than others with a value of 6,815,417,939.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@zzyynn05/untitled?cells=year_trends" width:"900" height:"3000"/]
 
-Despite Ethereum being introduced back in 2015, most of the first few crypt currencies showed similar trends regarding changes to their values and prices over time. Around 2018 - 2019, there was a drop in values for each of the crypto currencies that was followed up with a drastic increase to present time. Looking carefully at the graphs, Dogecoin's trends vary within the decial digits, while the most popular crypto currency Bitcoin has values changing in ten thousands digits.
+Despite Ethereum being introduced back in 2015, most of the first few crypt currencies showed similar trends regarding changes to their values and prices over time. Around 2018 - 2019, there was a drop in values for each of the crypto currencies that was followed up with a drastic increase to present time. Looking carefully at the graphs, Dogecoin’s trends vary within the decimal digits, while the most popular crypto currency Bitcoin has values changing in ten thousands digits.
 
 # How is crypto currency different from stocks?
 
-The primary different between cryptocurrency and stocks is that when you buy crypto, you own a certain amount of that digital currency. It may be possible to use Crypto in transactions as easily as other currencies in the near future, but today it’s primarily a store of value that you can hold onto or sell. Stocks on the other hand are offered by companies as equity or ownership in that company.
+The primary difference between cryptocurrency and stocks is that when you buy crypto, you own a certain amount of that digital currency. It may be possible to use Crypto in transactions as easily as other currencies in the near future, but today it’s primarily a store of value that you can hold onto or sell. Stocks on the other hand are offered by companies as equity or ownership in that company.
 
-Both crypto and stocks can increase or decrease in value, so buying either one involves risk. The difference is that most cryptocurrencies are notorious for drastic changes in value, and sometimes it happens without any clear reason. By comparison stokcs are directly linked to companies that must publicly and regularly share how they’ve been doing and how they expect to do in the future.
+Both crypto and stocks can increase or decrease in value, so buying either one involves risk. The difference is that most cryptocurrencies are notorious for drastic changes in value, and sometimes it happens without any clear reason. By comparison stocks are directly linked to companies that must publicly and regularly share how they’ve been doing and how they expect to do in the future.
 
 [NasdaqJoohoon actions:false data:nd width:"container"/]
 [EthJoohoon actions:false data:eth width:"container" /]
 [BtcJoohoon actions:false data:btc width:"container" /]
 
-These graphs above each represents market data of Nasdaq, Ethereum, and Bitcoin. To see which one is more stable or not, we calculated the difference between the high and low market value for each day and normalized it since they all have difference scales. We also had to omit the data collected on the weekends because there is no data for stock market. Now we can see the true fluctuations.
+These graphs above each represent market data of Nasdaq, Ethereum, and Bitcoin. To see which one is more stable or not, we calculated the difference between the high and low market value for each day and normalized it since they all have different scales. We also had to omit the data collected on the weekends because there is no data for the stock market. Now we can see the true fluctuations.
 
-There are few things to notice: first, we can clearly see when the current crypto boom started. Starting Dec, 2020, the values of Bitcoin and Ethereum rocketed and reached to their peaks. Second, and very interestingly, the amount of how much the value fluctuated for cryptocurrency seems less than that of stock market(Nasdaq). It is somewhat unexpected because we all had a stereotype that cryptocurrencies are unstable. There are many other factors, though, that may have caused this phenomenon, so it might be too early to go into any conclusion, and we haven't seen what causes these fluctuations of cryptocurrency yet!
+There are few things to notice: first, we can clearly see when the current crypto boom started. Starting Dec, 2020, the values of Bitcoin and Ethereum rocketed and reached their peaks. Second, and very interestingly, the amount of how much the value fluctuated for cryptocurrency seems less than that of the stock market(Nasdaq). It is somewhat unexpected because we all had a stereotype that cryptocurrencies are unstable. There are many other factors, though, that may have caused this phenomenon, so it might be too early to go into any conclusion, and we haven’t seen what causes these fluctuations of cryptocurrency yet!
 
 # Fluctuations and Predictions of Crypto-Currency Trends
 
-From here, we have seen trends in crypto-currency already, now we need to ask questions on why these trends happen and what factors we can look at to potentially be able to predic these trends. (For now, plots for Bitcoin and Dogeboin have been made with adjusted views of the axes, the goal is to make a multi-view visualization where I can select viewpoints of all the graphs at once).
+From here, we have seen trends in crypto-currency already, now we need to ask questions on why these trends happen and what factors we can look at to potentially be able to predict these trends. (For now, plots for Bitcoin and Dogeboin have been made with adjusted views of the axes, the goal is to make a multi-view visualization where I can select viewpoints of all the graphs at once).
 
 [HighToLowRoger actions:false data:coin_Bitcoin width:"container" /]
 [HighToLowDogeRoger actions:false data:coin_Dogecoin width:"container" /]
 
 # Potential Causes of Crypto-Currency Trends
 
-In order to fully understand the rises and drops in crypto-currencies, the charts and data can reveal the many events that occured that have caused these trends. For example, a trend these cryptocurrencies have is the major decline in January of 2018 which gives us a timeframe to research. Among other factors, the disclosure of the [2014 CoinCheck hack](https://money.cnn.com/2018/01/29/technology/coincheck-cryptocurrency-exchange-hack-japan/index.html) along with general mainstream distaste for crypto-currency at this time. Smaller trends that can be discovered from the the visualization of Bitcoin is that the start and end of each April from 2016 and on show positive trends consistently.
+In order to fully understand the rises and drops in crypto-currencies, the charts and data can reveal the many events that occured that have caused these trends. For example, a trend these cryptocurrencies have is the major decline in January of 2018 which gives us a timeframe to research. Among other factors, the disclosure of the 2014 CoinCheck hack along with general mainstream distaste for crypto-currency at this time. Smaller trends that can be discovered from the visualization of Bitcoin is that the start and end of each April from 2016 and on show positive trends consistently.
 
 
 Overall, the events that affect crypto-currencies are ongoing and very volatile, even as recent as May 8, 2021, [Elon Musk's appearance on Saturday Night Live](https://www.cnbc.com/2021/05/08/dogecoin-price-plummets-as-elon-musk-hosts-saturday-night-live-.html) caused a 30% drop in dogecoin due to the words he spoke on the crypto-currency.
