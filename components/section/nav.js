@@ -25,9 +25,6 @@ class Nav extends React.Component {
           <Box>
             <Text margin="0">Crypto Learners</Text>
           </Box>
-          <Box>
-            <Link margin="0">About</Link>
-          </Box>
         </Flex>
       </Flex>
     );

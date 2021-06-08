@@ -1,16 +1,21 @@
+.idyll-root {
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 41%, rgba(255,227,187,1) 100%);
+}
+
 body {
   margin: 0;
 }
 
 .idyll-text-container {
+  line-height: 2;
   max-width: 72vw;
   margin: 0 auto;
 }
 
 .idyll-text-container .vega-embed {
-  display: block;
-  max-width: 52vw;
-  margin-left: 4vw;
+  max-width: 72vw;
+  margin: 0 auto;
 }
 
 @font-face {
@@ -1142,18 +1147,47 @@ body {
 .idyll-text-container p {
   font-size: 1.5rem;
   padding-bottom: 4vw;
+  margin: 0;
 }
 
 .idyll-text-container .vega-embed {
   padding-bottom: 4vw;
 }
 
+.idyll-text-container iframe {
+  background-color: white;
+  min-height: 500px;
+  max-height: 1000px;
+  width: 100%;
+  margin-bottom: 4vw;
+}
+
+.idyll-text-container img {
+  margin-bottom: 4vw;
+}
 
 a:hover {
   color: inherit;
   text-decoration: underline;
   cursor: pointer;
   text-underline-offset: 0.1em;
+}
+
+.list {
+  padding-top: -2vw;
+  padding-bottom: 3vw;
+}
+
+.list p {
+  padding: 1vw;
+}
+
+.list a {
+  display: inline-block;
+  padding: 1vw;
+  font-size: 1.25em;
+  font-weight: 500;
+  color: rgb(47, 165, 255);
 }
 
 @font-face {

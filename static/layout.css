@@ -1,14 +1,19 @@
+.idyll-root {
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 41%, rgba(255,227,187,1) 100%);
+}
+
 body {
   margin: 0;
 }
 
 .idyll-text-container {
+  line-height: 2;
   max-width: 72vw;
   margin: 0 auto;
 }
 
 .idyll-text-container .vega-embed {
-  display: block;
-  max-width: 52vw;
-  margin-left: 4vw;
+  max-width: 72vw;
+  margin: 0 auto;
 }
