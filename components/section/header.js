@@ -12,7 +12,7 @@ class Header extends React.Component {
         justifyContent="center"
         flexDirection="column"
         textAlign="center"
-        backgroundColor="white"
+        backgroundColor="lightbrown"
         color="black"
       >
         <Heading fontWeight="700" fontSize="10vw" margin="0" padding="0">

@@ -8,14 +8,14 @@ class Contents extends React.Component {
       <Flex
         justifyContent="start"
         alignItems="center"
-        height="100vh"
+        height="50vh"
         boxSizing="border-box"
         flexDirection="column"
       >
         <VStack
           minW="100vw"
-          h="100vh"
-          fontSize="7vw"
+          h="80vh"
+          fontSize="30px"
           fontWeight="500"
           borderTop="2px solid black"
         >
