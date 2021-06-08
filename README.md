@@ -11,15 +11,14 @@
 
 Our goal is to bring _awareness to cryptocurrency developments and trends_ as we feel that the average person knows very little about how cryptocurrency even works, we sure don't. Currently, trying to find information on cryptocurrency can be as daunting as understanding the stock market, so we aim to present the developments of cryptocurrency using clearer and more digestible visualizations that can convey the same information to the general public.
 
-## Getting Started
+## Sections
 
-This template is a starting place for your project. Update the header information to include the relevant details for your project, and then feel free to mix and match the visualization and layout techniques introduced here for your own narrative.
-
-Think about how the narrative structure draws readers into the story you are telling and how the visualizations interact with the text (and with each other). The narrative should help ensure that the page as a whole is greater than just the sum of it's parts. When designing your page, decide on particular layouts that enhance the reader's experience and understanding of the topic.
-
-### Required Software
-
-You must have Node.js installed. You can get it directly from https://nodejs.org/en/.
+- When and How Was The First Introduction To Crypto Currencies?
+- How is crypto currency different from stocks?
+- Fluctuations and Predictions of Crypto-Currency Trends
+- Potential Causes of Crypto-Currency Trends
+- Introduce one specific crypto-currency: Bitcoin
+- Reference
 
 ### Installation
 
@@ -27,22 +26,10 @@ You must have Node.js installed. You can get it directly from https://nodejs.org
 - Make sure you have `idyll` installed (`npm i -g idyll`).
 - Run `npm install` to install project-specific dependencies.
 
-npm is the node package manager. If you're curious how this works and what the project dependencies are, open up `package.json` to see where these are listed.
-
-You can install custom dependencies by running `npm install <package-name> --save`. Note that any collaborators will also need to download the package locally by running `npm install` after pulling the changes.
-
-### Developing a post locally
-
-Run `idyll` from the command line. Your post will appear at [http://localhost:3000/](http://localhost:3000/). When the server is running, any local change that you make will be deteched and your webpage will auto-update with the new changes. Your local changes will not be visible to your team members until you push the changes to your repository. These changes will not be reflected in the final website unless you run the build script and push the updated docs folder (see below).
-
 ### Building a post for production
 
 Run `idyll build`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
 
-### Deploying
+### Developing a post locally
 
-Make sure your post has been built, then commit the `docs` folder to your project repository. It will be available at [cse412-21sp.github.io/your-repo-name/](). For example, you can view the sample embedded Tableau, vega-lite, and d3 charts at [https://cse412-21sp.github.io/Final-Project-Template](https://cse412-21sp.github.io/Final-Project-Template).
-
-#### Acknowledgements
-
-This template was adapted from the initial Scrollytelling template for Idyll. The code and visualization examples were adapted from the [final project template](https://github.com/cse412-21w/project-demo) created for a previous offering of CSE 412.
+Run `idyll` from the command line. Your post will appear at [http://localhost:3000/](http://localhost:3000/).
